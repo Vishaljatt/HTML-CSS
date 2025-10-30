@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: Arial;
+    border: border-box;
+}
+.navbar{
+    height: 60px;
+    background-color: black;
+    color: white;   
+}
+.nav-logo{
+    height: 50px;
+    width: 100px;
+}
+.logo{
+    background-image: url(../drive-download-20251030T160341Z-1-001/amazon_logo.png);
+    height: 50px;
+    background-size: cover;
+    width: 100%;
+}
